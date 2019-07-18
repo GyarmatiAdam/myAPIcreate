@@ -1,0 +1,2 @@
+# myAPIcreate
+ Take the Library or Rent a car project. Make a decision together with your pair-partner which project you will use and create a nice API for your project.   The first part of this challenge will be to create an API which will provide simple data of your application, for example, it can be how many free books you have in your library or how many free cars you have in your rent a car agency and provide a nice JSON response.  
